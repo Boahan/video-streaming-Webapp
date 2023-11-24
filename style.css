@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #006653;
+    background-color: #0066c6;
     color: aliceblue;
     font-family: 'Poppins', sans-serif;
 }
@@ -13,7 +13,7 @@ main {
 }
 
 #site-title {
-    font-family: 'Permanent Marker', cursive;
+    font-family: sans-serif;
 }
 
 
