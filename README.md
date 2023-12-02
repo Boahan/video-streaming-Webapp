@@ -4,6 +4,13 @@
 
 This project provides a video streaming web application built using HTML, CSS, and JavaScript with Agora integration. It allows users to perform the following functionalities:
 
+**Screenshots**
+
+![Screenshot 2023-12-02 121920](https://github.com/Boahan/video-streaming-Webapp/assets/111555189/94900b23-e390-43f6-9b57-d5d0e7a40669)
+
+
+
+
 **Features:**
 
 * **Real-time video streaming:** Multiple users can join a video conference and stream their video feeds simultaneously.
