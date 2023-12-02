@@ -45,6 +45,11 @@ You can deploy your application to various platforms such as:
 * **Static web hosting services:** Netlify, Vercel, GitHub Pages.
 * **Cloud platforms:** Heroku, AWS, Google Cloud Platform.
 
+
+**Important**
+
+Agora is a paas and it generates a temporary token key which is only valid upto 24 hours after that you need to regenerate it.
+
 **Further Development:**
 
 The application can be further customized and extended to include features like:
